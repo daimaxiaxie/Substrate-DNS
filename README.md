@@ -1,2 +1,2 @@
 # Substrate-DNS
-A DNS pallet on substrate
+A DNS pallet on substrate.
