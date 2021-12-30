@@ -15,7 +15,7 @@ targets = ['x86_64-unknown-linux-gnu']
 [dependencies.pallet-dns]
 default-features = false
 path = '../pallets/dns'
-version = '1.0.0'
+version = '0.1.0'
 
 [build-dependencies.substrate-wasm-builder]
 git = 'https://github.com/paritytech/substrate.git'
